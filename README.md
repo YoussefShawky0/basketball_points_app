@@ -14,7 +14,7 @@ A simple, clean Flutter app for tracking basketball scores between two teams.
 
 Basketball Points App Screenshot
 
-![Basketball Points App Screenshot](https://raw.githubusercontent.com/YoussefShawky0/basketball_points_app/main/image/image.png)
+![Basketball Points App Screenshot](https://github.com/YoussefShawky0/basketball_points_app/blob/master/image/image.png?raw=true)
 
 
 ## 🚀 Getting Started
