@@ -216,6 +216,7 @@ class _MainAppState extends State<MainApp> {
               ],
             ),
             Container(
+              alignment: Alignment.bottomCenter,
               padding: EdgeInsets.only(top: 20),
               child: ElevatedButton(
                 style: ElevatedButton.styleFrom(
